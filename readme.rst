@@ -1,3 +1,10 @@
+########################
+CodeIgniter + Bootstrap
+########################
+
+Make sure to update SITEURL constant in config/constants.php to match your development environment.
+
+
 ###################
 What is CodeIgniter
 ###################
